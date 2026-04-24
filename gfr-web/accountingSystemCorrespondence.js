@@ -1,5 +1,5 @@
 var uploader = null //uploader上传对象
-var fileNum = 0; //已上传附件数
+var fileNum = 0; //已上传附件数 修改内容
 var fileName = null
 var reportClassInfo = {
     report_class: '',
