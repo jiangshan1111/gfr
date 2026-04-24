@@ -1,6 +1,7 @@
 var uploader = null //uploader上传对象
 var fileNum = 0; //已上传附件数 修改内容 测试qeder修改
 var fileName = null
+//测试1234
 var reportClassInfo = {
     report_class: '',
     report_class_name: ''
